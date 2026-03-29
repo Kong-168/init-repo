@@ -1,3 +1,3 @@
-# init-repo
+# init-repo.
 #comment-codes
 #Iliketype-script!
